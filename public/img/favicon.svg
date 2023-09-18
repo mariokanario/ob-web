@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 62.13 62.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b7b7b7;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-8 {
+        fill: #333;
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-11 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-13 {
+        stroke: #333;
+        stroke-linejoin: bevel;
+        stroke-width: 7.69px;
+      }
+
+      .cls-13, .cls-14 {
+        fill: none;
+      }
+
+      .cls-5 {
+        opacity: .82;
+      }
+
+      .cls-15 {
+        fill: #e8e8e8;
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-10);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-14" width="62.13" height="62.98"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-14" y=".12" width="62" height="62.86"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-14" width="62.13" height="62.98"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-14" y=".12" width="62" height="62.86"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="cls-14" width="62.13" height="62.98"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="cls-14" y=".12" width="62" height="62.86"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="cls-14" width="62.13" height="62.98"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect class="cls-14" width="62.13" height="62.98"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="cls-14" x="27.57" y=".12" width="34.44" height="62.86"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="cls-14" x="27.54" width="34.59" height="62.98"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="cls-14" y=".12" width="62" height="62.86"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect class="cls-14" width="62.13" height="62.98"/>
+    </clipPath>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g class="cls-4">
+      <g class="cls-12">
+        <polygon class="cls-15" points="30.47 60.19 30.47 1.57 59.49 51.83 30.47 60.19"/>
+        <g class="cls-9">
+          <g class="cls-4">
+            <g class="cls-3">
+              <polygon class="cls-13" points="30.47 60.19 30.47 1.57 59.49 51.83 30.47 60.19"/>
+            </g>
+          </g>
+        </g>
+        <polygon class="cls-15" points="30.47 1.57 1.45 51.83 30.47 60.19 30.47 1.57"/>
+        <g class="cls-16">
+          <g class="cls-4">
+            <g class="cls-10">
+              <polygon class="cls-13" points="30.47 1.57 1.45 51.83 30.47 60.19 30.47 1.57"/>
+            </g>
+          </g>
+        </g>
+        <polygon class="cls-1" points="30.47 60.19 1.45 51.83 30.47 35.05 59.49 51.83 30.47 60.19"/>
+        <g class="cls-18">
+          <g class="cls-4">
+            <g class="cls-6">
+              <polygon class="cls-13" points="30.47 60.19 1.45 51.83 30.47 35.05 59.49 51.83 30.47 60.19"/>
+              <g class="cls-5">
+                <g class="cls-7">
+                  <g class="cls-17">
+                    <g class="cls-4">
+                      <g class="cls-11">
+                        <polygon class="cls-8" points="30.47 60.19 30.47 1.57 59.49 51.83 30.47 60.19"/>
+                        <polygon class="cls-8" points="30.47 60.19 30.47 1.57 59.49 51.83 30.47 60.19"/>
+                        <polygon class="cls-13" points="30.47 60.19 30.47 1.57 59.49 51.83 30.47 60.19"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g class="cls-19">
+          <g class="cls-4">
+            <g class="cls-2">
+              <line class="cls-13" x1="30.47" y1="60.19" x2="30.47" y2="1.57"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

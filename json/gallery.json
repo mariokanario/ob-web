@@ -1,0 +1,44 @@
+[
+    { "src": "../img/gallery/image1.jpg", "category": "none"
+    },
+    { "src": "../img/gallery/image2.jpg", "category": "none"
+    },
+    { "src": "../img/gallery/image3.jpg", "category": "none"
+    },
+    {
+        "src": "../img/gallery/image1.jpg",
+        "category": "none"
+    },
+    {
+        "src": "../img/gallery/image2.jpg",
+        "category": "none"
+    },
+    {
+        "src": "../img/gallery/image3.jpg",
+        "category": "none"
+    },
+    {
+        "src": "../img/gallery/image1.jpg",
+        "category": "none"
+    },
+    {
+        "src": "../img/gallery/image2.jpg",
+        "category": "none"
+    },
+    {
+        "src": "../img/gallery/image3.jpg",
+        "category": "none"
+    },
+    {
+        "src": "../img/gallery/image1.jpg",
+        "category": "none"
+    },
+    {
+        "src": "../img/gallery/image2.jpg",
+        "category": "none"
+    },
+    {
+        "src": "../img/gallery/image3.jpg",
+        "category": "none"
+    }
+]
