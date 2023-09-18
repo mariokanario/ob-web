@@ -26,20 +26,20 @@ const Navbar = () => {
                         <span className="navbar-toggler-icon"></span>
                     </button>
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul className="navbar-nav mx-auto mb-2 mb-lg-0">
+                        <ul className="navbar-nav mx-auto mb-2 mb-lg-0 text-center">
                             <li className="nav-item">
-                                <Link href="/processes" className={`nav-link mx-3 ${activeItem === 'processes' ? 'active' : ''}`} aria-current="page" onClick={() => handleItemClick('processes')}>Processes</Link>
+                                <Link href="/processes" className={`nav-link mx-3 my-3 my-sm-0 ${activeItem === 'processes' ? 'active' : ''}`} aria-current="page" onClick={() => handleItemClick('processes')}>Processes</Link>
                             </li>
                             <li className="nav-item">
-                                <Link href="/portfolio" className={`nav-link mx-3 ${activeItem === 'portfolio' ? 'active' : ''}`} aria-current="page" onClick={() => handleItemClick('portfolio')}>Portfolio</Link>
+                                <Link href="/portfolio" className={`nav-link mx-3 my-3 my-sm-0 ${activeItem === 'portfolio' ? 'active' : ''}`} aria-current="page" onClick={() => handleItemClick('portfolio')}>Portfolio</Link>
                             </li>
                             <li className="nav-item">
-                                <Link href="/contact" className={`nav-link mx-3 ${activeItem === 'contact' ? 'active' : ''}`} aria-current="page" onClick={() => handleItemClick('contact')}>Contact</Link>
+                                <Link href="/contact" className={`nav-link mx-3 my-3 my-sm-0 ${activeItem === 'contact' ? 'active' : ''}`} aria-current="page" onClick={() => handleItemClick('contact')}>Contact</Link>
                             </li>
                             
                         </ul>
 
-                        <div className='d-flex mx-3'>
+                        <div className='d-flex mx-3 justify-content-center'>
                             <a className={`link-lang ${activeLang === 'EN' ? 'link-lang-active' : ''}`} onClick={() => {
                               setActiveLang('EN')  
                             }} >EN </a>
